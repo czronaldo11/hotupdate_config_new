@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="GB2312"?>
+<DynamicUpdatePackage url="http://down.qq.com/dancer/video" >
+	<gift id="33">
+	    <android name="android_gift_33_1111" />
+		<ios name="android_gift_33_1111" />
+		<pc name="android_gift_33_1111" />
+	</gift>
+	<gift id="66">
+		<android name="android_gift_66_1111" />
+		<ios name="android_gift_66_1111" />
+		<pc name="android_gift_66_1111" />
+	</gift>
+</DynamicUpdatePackage>
